@@ -1,3 +1,3 @@
 # Notes
-    private
-'private'
+    private class 
+
