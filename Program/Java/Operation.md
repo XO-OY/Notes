@@ -5,3 +5,5 @@
     javac @sources.txt
 ### 打jar包
     jar cvf name.jar [source.class | file/*]
+### 编译报(非法字符：\65279)错误
+    修改为gbk编码，修改乱码字段，再重新改回utf-8
