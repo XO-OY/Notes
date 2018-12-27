@@ -46,8 +46,8 @@
 
 ### 树遍历-从根节点向下
     select * from table_name
-　　    start with identity=475
-    　　connect by prior identity = pid;
+        start with identity=475
+        connect by prior identity = pid;
 
 ### 树遍历-从叶节点向上
     select level ,identity,pid,yylevel from table_name
