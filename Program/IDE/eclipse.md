@@ -16,3 +16,7 @@
   1. 看build path Source-Default output folder是否正确
   2. 看web.xml监听器配置
   3. 看Project Facets Java版本是否正确
+
+## 配置VM参数
+
+  preferences>Java>Installed JREs 选择jdk-edit
