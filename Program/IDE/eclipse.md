@@ -20,3 +20,7 @@
 ## 配置VM参数
 
   preferences>Java>Installed JREs 选择jdk-edit
+
+## 删除workSpace地址缓存
+
+  eclipse\configuration\.settings\org.eclipse.ui.ide.prefs里面有一个org.eclipse.ui.ide.prefs文件中有一行配置：RECENT_WORKSPACES
