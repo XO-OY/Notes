@@ -11,3 +11,5 @@
 ## illegal cyclic inheritance dependencies
 
     出现类循环继承导致内存溢出启动失败，jar包冲突导致，在项目目录下移除冲突包，重新编译运行
+
+## 启动前看project facets中java版本是否正确
