@@ -24,3 +24,9 @@
 ## 删除workSpace地址缓存
 
   eclipse\configuration\.settings\org.eclipse.ui.ide.prefs里面有一个org.eclipse.ui.ide.prefs文件中有一行配置：RECENT_WORKSPACES
+
+## Cannot create JDBC driver of class '' for connect URL 'null'
+
+  check the tomcat config file like 'context' or 'server';
+  if it's on MyEclipse, make sure that other tomcat server have beening turn into disabled.
+
