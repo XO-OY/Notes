@@ -7,3 +7,7 @@
 ## 文件内容模糊搜索
 
     grep 'text' filename
+
+## 查看文件属性
+
+    stat filename
