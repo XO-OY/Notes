@@ -11,3 +11,7 @@
 ## 查看文件属性
 
     stat filename
+
+## 查找文件名
+
+    find . -name "filename"
