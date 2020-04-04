@@ -30,3 +30,4 @@
   check the tomcat config file like 'context' or 'server';
   if it's on MyEclipse, make sure that other tomcat server have beening turn into disabled.
 
+## buildpath 直接引入外部jar包编译并不生效
