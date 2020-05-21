@@ -18,3 +18,5 @@
         <key column="关联类对应数据库列名" property-ref="本类关联属性名"/>
         <one-to-many class="关联类"/>
 	</set>
+
+## 直接执行sql语句的，数值赋值不要带引号，前台直接取值时会无法识别成数字
