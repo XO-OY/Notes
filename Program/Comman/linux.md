@@ -15,3 +15,11 @@
 ## 查找文件名
 
     find . -name "filename"
+
+## ping限制三秒结束
+
+    ping ip -w 3
+
+## ping限制三次结束
+
+    ping ip -c 3
